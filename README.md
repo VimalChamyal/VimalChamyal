@@ -1,7 +1,5 @@
 ![](./Banner.png)
 
-<img height="100" alt="html" src="./hi.jpg">
-
 <p align="center"><h3>  🙏 I'm Vimal Chamyal. </h3></p>
 
 <br />
