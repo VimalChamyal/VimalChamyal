@@ -21,13 +21,13 @@ ________________________________________________________________________________
 
 **Know me better**
 
-<h3>💼 Landed as a MERN Stack intern at [Adrixus] (http://adrixus.com/) -- Apr '22 - Jun '22 </h3>
+💼 Landed as a MERN Stack intern at [Adrixus] (http://adrixus.com/) -- Apr '22 - Jun '22
 
-<h4>🔥 Skilled up myself in MERN stack along with a FT sales job && Created my GitHub account (Mar'22) -- Feb '22 - Apr '22 </h4>
+🔥 Skilled up myself in MERN stack along with a FT sales job && Created my GitHub account (Mar'22) -- Feb '22 - Apr '22
 
-<h5>💔 **'The phoenix must burn to emerge'** -- Took up a full time night shift sales job ( that's what I could get the quickest ) -- Jan '22 - Apr '22 </h5>
+💔 **'The phoenix must burn to emerge'** -- Took up a full time night shift sales job ( that's what I could get the quickest ) -- Jan '22 - Apr '22 
 
-<h2>💕 Been into civil services prep, although couldn't crack it, but its still my 💘 -- '20 - Jan '22</h2>
+💕 Been into civil services prep, although couldn't crack it, but its still my 💘 -- '20 - Jan '22
 
 🎒 A Mechanical Engineer by Education -- Graduated in 2020.
 
@@ -36,10 +36,8 @@ ________________________________________________________________________________
   
 
 
-<a href="https://github.com/VimalChamyal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=VimalChamyal&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Vimal's github stats" /></a>
+<a href="https://github.com/VimalChamyal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=VimalChamyal&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true" alt="Vimal's github stats" /></a>
 <br />
-<br />
-[![Vimal Chamyal's GitHub stats](https://github-readme-stats.vercel.app/api?username=VimalChamyal&theme=gruvbox)](https://github.com/VimalChamyal/github-readme-stats)
 <br />
 
 
