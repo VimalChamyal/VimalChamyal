@@ -16,14 +16,10 @@ I'm a self-taught FrontEnd developer from **India** 🇮🇳
 <code><img height="25" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="25" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
 
-[[![wakatime](https://wakatime.com/badge/user/fe33b659-0615-4c51-8299-f521115b34ee.svg)](https://wakatime.com/@fe33b659-0615-4c51-8299-f521115b34ee)
-](https://wakatime.com/badge/user/fe33b659-0615-4c51-8299-f521115b34ee.svg)
+
 
 <a href="https://wakatime.com/@fe33b659-0615-4c51-8299-f521115b34ee"><img src="https://wakatime.com/badge/user/fe33b659-0615-4c51-8299-f521115b34ee.svg" alt="Total time coded since Jun 1 2022" /></a>
 
-
-<img height="30" alt="html" src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png](https://wakatime.com/badge/user/fe33b659-0615-4c51-8299-f521115b34ee.svg)">
-https://wakatime.com/badge/user/fe33b659-0615-4c51-8299-f521115b34ee.svg
 ________________________________________________________________________________________________________________________________________________________________
 
 (**Know me better**) => {
