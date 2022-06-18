@@ -1,4 +1,4 @@
-![](./banner.jpg)
+![](./Banner.png)
 
 <img height="100" alt="html" src="./hi.jpg">
 
