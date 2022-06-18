@@ -23,12 +23,6 @@ ________________________________________________________________________________
 
 <br/>
 
-[![Vimal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vimalchamyal&theme=radical)](https://github.com/VimalChamyal/github-readme-stats)
-
-
-
-________________________________________________________________________________________________________________________________________________________________
-
 (**Know me better**) => {
 
 💼... Landed as a MERN Stack intern at  [Adrixus](http://adrixus.com/) || => [Apr '22 - Jun '22]
@@ -52,4 +46,7 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________________________________________________________________________
  
+[![Vimal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vimalchamyal&theme=radical)](https://github.com/VimalChamyal/github-readme-stats)
+
+
 
