@@ -16,6 +16,8 @@ I'm a self-taught FrontEnd developer from **India** 🇮🇳
  
  <br/>
  
+  <a href="https://github.com/VimalChamyal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalchamyal&layout=compact&theme=radical&hide_border=true" /></a>
+
 ________________________________________________________________________________________________________________________________________________________________
 
 
@@ -47,7 +49,7 @@ ________________________________________________________________________________
  
 
 
-<a href="https://github.com/VimalChamyal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=VimalChamyal&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true" alt="Vimal's github stats" /></a>
+<a href="https://github.com/VimalChamyal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=VimalChamyal&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Vimal's github stats" /></a>
 <br />
 <br />
 
