@@ -31,25 +31,22 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________________________________________________________________________
 
+<!--START_SECTION:waka-->
  [![Vimal Chamyal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vimalchamyal)](https://github.com/VimalChamyal/github-readme-stats)
- 
- 
+ <!--END_SECTION:waka-->
+ <!--START_SECTION:waka-->
   [![Vimal Chamyal's wakatime stats](https://github-readme-stats.vercel.app/b59c7cd1-3494-4068-9f1b-adc2a7b7b4f1/wakatime?username=vimalchamyal)](https://github.com/VimalChamyal/github-readme-stats)
+  <!--END_SECTION:waka-->
  
- 
- 
+<!--START_SECTION:waka--> 
   [![Vimal Chamyal's wakatime stats](https://github-readme-stats.vercel.app/WAKATIME_API_KEY/wakatime?username=vimalchamyal)](https://github.com/VimalChamyal/github-readme-stats)
  
- 
+ <!--END_SECTION:waka-->
  
  
 
 
 <a href="https://github.com/VimalChamyal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=VimalChamyal&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Vimal's github stats" /></a>
-<br />
-<br />
-
-<a href="https://github.com/vimal-adrixus/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vimal-adrixus&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Vimal's github stats" /></a>
 <br />
 <br />
 
