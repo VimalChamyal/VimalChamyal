@@ -40,7 +40,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________________________________
 
 
-|   <a href="https://github.com/VimalChamyal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalchamyal&layout=compact&theme=radical&hide_border=true" /></a> |[![Vimal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vimalchamyal&theme=radical)](https://github.com/VimalChamyal/github-readme-stats)|
+|   <a href="https://github.com/VimalChamyal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalchamyal&layout=compact&theme=radical&hide_border=true" /></a> |[![Vimal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vimalchamyal&theme=radical&hide_border=true")](https://github.com/VimalChamyal/github-readme-stats)|
 | ------------- | ------------- |
 
 
