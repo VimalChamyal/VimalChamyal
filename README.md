@@ -1,4 +1,4 @@
-<img height="500" alt="html" src="./hi.jpg">
+<img height="100" alt="html" src="./hi.jpg">
 
 <p align="center"><h3>  🙏 I'm Vimal Chamyal. </h3></p>
 
