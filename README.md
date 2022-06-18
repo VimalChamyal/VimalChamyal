@@ -15,8 +15,11 @@ I'm a self-taught FrontEnd developer from **India** 🇮🇳
  <a href="https://github.com/VimalChamyal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalchamyal&layout=compact&theme=buefy&hide_border=true" /></a>
  
  <br/>
+ 
+________________________________________________________________________________________________________________________________________________________________
 
-**About me**
+
+**Know me better**
 
 💼 Landed as a MERN Stack intern at [Adrixus](http://adrixus.com/) -- Apr '22 - Jun '22
 
