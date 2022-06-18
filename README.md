@@ -18,6 +18,8 @@ I'm a self-taught FrontEnd developer from **India** 🇮🇳
 
 [[![wakatime](https://wakatime.com/badge/user/fe33b659-0615-4c51-8299-f521115b34ee.svg)](https://wakatime.com/@fe33b659-0615-4c51-8299-f521115b34ee)
 ](https://wakatime.com/badge/user/fe33b659-0615-4c51-8299-f521115b34ee.svg)
+
+<a href="https://wakatime.com/@fe33b659-0615-4c51-8299-f521115b34ee"><img src="https://wakatime.com/badge/user/fe33b659-0615-4c51-8299-f521115b34ee.svg" alt="Total time coded since Jun 1 2022" /></a>
 ________________________________________________________________________________________________________________________________________________________________
 
 (**Know me better**) => {
