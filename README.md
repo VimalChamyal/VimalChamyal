@@ -1,4 +1,4 @@
-![](./bannner.png)
+![](./bannnnner.png)
 
 <p align="center"><h3>  🙏 I'm Vimal Chamyal. </h3></p>
 
