@@ -3,4 +3,53 @@
 
 [![Top Languages, I use](https://github-readme-stats.vercel.app/api/top-langs/?username=VimalChamyal&theme=radical)](https://github.com/VimalChamyal/github-readme-stats)
 [![Vimal Chamyal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vimalchamyal)](https://github.com/VimalChamyal/github-readme-stats)
-<figure><embed src="https://wakatime.com/share/@vimalchamyal/d6ad1cbb-c676-4b21-b97c-b12b26bd82fe.svg"></embed></figure>
+
+{
+  "data": [
+    {
+      "color": "#f1e05a",
+      "name": "JavaScript",
+      "percent": 98.29
+    },
+    {
+      "color": "#16ce40",
+      "name": "JSON",
+      "percent": 0.6
+    },
+    {
+      "color": "#dc9658",
+      "name": "Bash",
+      "percent": 0.44
+    },
+    {
+      "color": "#1f9aef",
+      "name": "Other",
+      "percent": 0.4
+    },
+    {
+      "color": "#427819",
+      "name": "Makefile",
+      "percent": 0.21
+    },
+    {
+      "color": "#d62728",
+      "name": "XML",
+      "percent": 0.02
+    },
+    {
+      "color": "#9467bd",
+      "name": "Git Config",
+      "percent": 0.01
+    },
+    {
+      "color": "#31859c",
+      "name": "TypeScript",
+      "percent": 0.01
+    },
+    {
+      "color": "#ff0c5a",
+      "name": "Objective-J",
+      "percent": 0.0
+    }
+  ]
+}
