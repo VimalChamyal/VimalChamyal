@@ -21,7 +21,7 @@ ________________________________________________________________________________
 
 **Know me better**
 
-💼 Landed as a MERN Stack intern at [Adrixus](http://adrixus.com/) -- Apr '22 - Jun '22
+💼 <h3>Landed as a MERN Stack intern at [Adrixus] (http://adrixus.com/) -- Apr '22 - Jun '22 </h3>
 
 🔥 Skilled up myself in MERN stack along with a FT sales job && Created my GitHub account (Mar'22) -- Feb '22 - Apr '22
 
