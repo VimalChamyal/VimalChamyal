@@ -1,4 +1,4 @@
-<img height="100" alt="html" src="./image.webp">
+<img height="500" alt="html" src="./image.webp">
 
 <p align="center"><h3>  🙏 I'm Vimal Chamyal. </h3></p>
 
