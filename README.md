@@ -22,7 +22,7 @@ ________________________________________________________________________________
 
 🔥... Skilled up myself in MERN stack along with a job && Created my GitHub account || => [Feb '22 - Apr '22]
 
-💔... **The phoenix must burn to emerge** -- Took up a full time night shift sales job ( that's what I could get the quickest ) || => [Jan '22 - Apr '22]
+💔... **The phoenix must burn to emerge** -- Took up a full time night shift sales job || => [Jan '22 - Apr '22]
 
 💕... Been into civil services prep, although couldn't crack it, but its still my 💘 || => ['20 - Jan '22]
 
