@@ -17,5 +17,6 @@ jobs:
           SHOW_TITLE: true
           TIME_RANGE: last_30_days
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          SHOW_TOTAL: true
 
   
