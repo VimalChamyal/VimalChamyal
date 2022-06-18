@@ -34,6 +34,7 @@ ________________________________________________________________________________
 
 <a href="https://github.com/VimalChamyal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=VimalChamyal&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Vimal's github stats" /></a>
 <br />
+<br />
 <a>[![Vimal Chamyal's GitHub stats](https://github-readme-stats.vercel.app/api?username=VimalChamyal&theme=gruvbox)](https://github.com/VimalChamyal/github-readme-stats) </a>
 
 <br />
