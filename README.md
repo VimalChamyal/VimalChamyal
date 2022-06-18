@@ -11,15 +11,17 @@ I'm a self-taught FrontEnd developer from **India** 🇮🇳
 
 **About me**
 
-💼 Landed as a MERN Stack intern at [Adrixus](http://adrixus.com/) | Apr '22 - Jun '22
+💼 Landed as a MERN Stack intern at [Adrixus](http://adrixus.com/) -- Apr '22 - Jun '22
 
-🔥 Skilled up myself in MERN stack along with a FT sales job -- Created my GitHub account (Mar'22) | Feb '22 - Apr '22
+🔥 Skilled up myself in MERN stack along with a FT sales job && Created my GitHub account (Mar'22) -- Feb '22 - Apr '22
 
-💔 **'The phoenix must burn to emerge'** -- Took up a full time night shift sales job ( that's what I could get the quickest ) | Jan '22 - Apr '22
+💔 **'The phoenix must burn to emerge'** -- Took up a full time night shift sales job ( that's what I could get the quickest ) -- Jan '22 - Apr '22
 
-💕 Been into civil services prep, although couldn't crack it, but its still my 💘 | '20 - Jan '22
+💕 Been into civil services prep, although couldn't crack it, but its still my 💘 -- '20 - Jan '22
 
 🎒 A Mechanical Engineer by Education -- Graduated in 2020.
+
+________________________________________________________________________________________________________________________________________________________________
 
   
 
