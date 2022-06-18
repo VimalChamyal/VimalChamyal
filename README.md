@@ -16,7 +16,7 @@ I'm a self-taught FrontEnd developer from **India** 🇮🇳
   <a href="https://github.com/VimalChamyal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalchamyal&layout=compact&theme=gruvbox&hide_border=true" /></a>
 
 <br />
-______________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
 
 **Know me better**
 
