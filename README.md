@@ -12,13 +12,10 @@ I'm a self-taught FrontEnd developer from **India** 🇮🇳
 <code><img height="25" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
 
 <br />
-<br />
-
- <a href="https://github.com/VimalChamyal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalchamyal&layout=compact&theme=buefy&hide_border=true" /></a>
  
  <br/>
  
-  <a href="https://github.com/VimalChamyal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalchamyal&layout=compact&theme=radical&hide_border=true" /></a>
+  <a href="https://github.com/VimalChamyal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalchamyal&layout=compact&theme=gruvbox&hide_border=true" /></a>
 
 ________________________________________________________________________________________________________________________________________________________________
 
