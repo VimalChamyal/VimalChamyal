@@ -1,4 +1,4 @@
-![](https://github.com/VimalChamyal/VimalChamyal/banner.jpg)
+![](./banner.jpg)
 
 <img height="100" alt="html" src="./hi.jpg">
 
