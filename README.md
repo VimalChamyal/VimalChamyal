@@ -47,6 +47,6 @@ ________________________________________________________________________________
  
 
 <!--START_SECTION:waka-->
-[![Vimal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vimalchamyal)](https://github.com/VimalChamyal/github-readme-stats)
+[![Vimal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vimalchamyal&theme=radical)](https://github.com/VimalChamyal/github-readme-stats)
 <!--END_SECTION:waka-->
 
