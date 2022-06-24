@@ -25,7 +25,7 @@ ________________________________________________________________________________
 
 (**Know me better**) => {
 
-💼... Landed as a MERN Stack intern at  [Adrixus](http://adrixus.com/) | Checkout my [Official GitHub](https://github.com/vimal-adrixus) | => [Apr '22 - Jun '22]
+💼... Landed as a MERN Stack intern at  [Adrixus](http://adrixus.com/) | Checkout my [Official GitHub](https://github.com/vimal-adrixus) | => [Apr '22 - Till Date]
 
 🔥... Skilled up myself in MERN stack along with a job && Created my GitHub account || => [Feb '22 - Apr '22]
 
