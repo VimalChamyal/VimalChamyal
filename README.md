@@ -25,7 +25,7 @@ ________________________________________________________________________________
 
 (**Know me better**) => {
 
-💼... Landed as a MERN Stack intern at  [Adrixus](http://adrixus.com/) || => [Apr '22 - Jun '22]
+💼... Landed as a MERN Stack intern at  [Adrixus](http://adrixus.com/) | [Official GitHub](https://github.com/vimal-adrixus) | => [Apr '22 - Jun '22]
 
 🔥... Skilled up myself in MERN stack along with a job && Created my GitHub account || => [Feb '22 - Apr '22]
 
@@ -39,15 +39,8 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________________________________________________________________________
 
-<a href="https://github.com/vimal-adrixus/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalchamyal&layout=compact&theme=radical&hide_border=true" /></a>
 
-
-<a href="https://github.com/VimalChamyal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimal-adrixus&layout=compact&theme=radical&hide_border=true" /></a>
-
-________________________________________________________________________________________________________________________________________________________________
-
-
-|   <a href="https://github.com/vimal-adrixus/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vimal-adrixus&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Vimal's github stats" /></a> |<a href="https://github.com/VimalChamyal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=VimalChamyal&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Vimal's github stats" /></a>|
+|<a href="https://github.com/VimalChamyal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalchamyal&layout=compact&theme=radical&hide_border=true" /></a>  |<a href="https://github.com/VimalChamyal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=VimalChamyal&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Vimal's github stats" /></a>|
 | ------------- | ------------- |
 
 
