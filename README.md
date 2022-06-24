@@ -39,8 +39,13 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________________________________________________________________________
 
+<a href="https://github.com/vimal-adrixus/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalchamyal&layout=compact&theme=radical&hide_border=true" /></a>
 
-|   <a href="https://github.com/VimalChamyal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalchamyal&layout=compact&theme=radical&hide_border=true" /></a> |<a href="https://github.com/VimalChamyal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=VimalChamyal&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Vimal's github stats" /></a>|
+
+________________________________________________________________________________________________________________________________________________________________
+
+
+|   <a href="https://github.com/vimal-adrixus/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=VimalChamyal&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Vimal's github stats" /></a> |<a href="https://github.com/VimalChamyal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=VimalChamyal&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Vimal's github stats" /></a>|
 | ------------- | ------------- |
 
 
@@ -50,5 +55,5 @@ ________________________________________________________________________________
 
 
 
-[![Vimal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vimalchamyal&theme=radical&hide_border=true")](https://github.com/VimalChamyal/github-readme-stats)
+[![Vimal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vimalchamyal&hide_border=true")](https://github.com/VimalChamyal/github-readme-stats)
 
