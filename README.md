@@ -14,18 +14,16 @@ I started off as a self-taught FrontEnd developer
 <code> <img height="25" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="25" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
+<a href="https://wakatime.com/@fe33b659-0615-4c51-8299-f521115b34ee"><img src="https://wakatime.com/badge/user/fe33b659-0615-4c51-8299-f521115b34ee.svg" alt="Total time coded since Jun 1 2022" /></a>
+
 ________________________________________________________________________________________________________________________________________________________________
 
 
 Upskilled myself and found my 💝 in data science
 💪 👉
 <code><img height="25" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="25" alt="sql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="25" alt="mysql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="25" alt="excel" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/msexcel/msexcel.png"></code>
 
-
-<a href="https://wakatime.com/@fe33b659-0615-4c51-8299-f521115b34ee"><img src="https://wakatime.com/badge/user/fe33b659-0615-4c51-8299-f521115b34ee.svg" alt="Total time coded since Jun 1 2022" /></a>
 ________________________________________________________________________________________________________________________________________________________________
 
 
@@ -34,13 +32,19 @@ ________________________________________________________________________________
 
 (**Know me better**) => {
 
-💼... Landed as a MERN Stack intern at  [Adrixus](http://adrixus.com/) | Checkout my [GitHub at Adrixus](https://github.com/vimal-adrixus) || => [Apr '22 - Till Date]
+🔥... I have been a learner, I am learning and will be a learner... throughout my life
 
-🔥... Skilled up myself in MERN stack along with a job | Checkout my updated [Resume](https://github.com/VimalChamyal/MyStats.git) || => [Feb '22 - Apr '22]
+💼💘... Got into Oracle Cerner as a Data Analyst at [Cerner]([https://www.cerner.com/]) | Checkout my [GitHub at Adrixus](https://github.com/vimal-adrixus) || => [Aug '22 - Till Date]
+
+🔥... Upskilled myself in Data science while working in Adrixus 
+
+💼... Landed as a MERN Stack intern at [Adrixus](http://adrixus.com/) | Checkout my [GitHub at Adrixus](https://github.com/vimal-adrixus) || => [Apr '22 - Jul'22]
+
+🔥... Upskilled myself in MERN stack along with a job | Checkout my updated [Resume](https://github.com/VimalChamyal/MyStats.git) || => [Feb '22 - Apr '22]
 
 💔... **The phoenix must burn to emerge** -- Took up a full time night shift sales job || => [Jan '22 - Apr '22]
 
-💕... Been into civil services prep, although couldn't crack it, but its still my 💘 || => ['20 - Jan '22]
+💕... Been into civil services prep... although couldn't crack it, the preparation moulded my personality in and out. || => ['20 - Jan '22]
 
 🎒... A Mechanical Engineer by Education || => [Graduated in 2020]
 
