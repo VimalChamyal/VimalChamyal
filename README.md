@@ -36,11 +36,9 @@ ________________________________________________________________________________
 
 💼💘... Got into Oracle Cerner as a Data Analyst at [Cerner](https://www.cerner.com/) || => [Aug '22 - Till Date]
 
-🔥... Upskilled myself in Data science while working in Adrixus 
-
 💼... Landed as a MERN Stack intern at [Adrixus](http://adrixus.com/) | Checkout my [GitHub at Adrixus](https://github.com/vimal-adrixus) || => [Apr '22 - Jul'22]
 
-🔥... Upskilled myself in MERN stack along with a job | Checkout my updated [Resume](https://github.com/VimalChamyal/MyStats.git) || => [Feb '22 - Apr '22]
+🔥... Upskilled myself in MERN stack & data science along with a job | Checkout my updated [Resume](https://github.com/VimalChamyal/MyStats.git) || => [Feb '22 - Apr '22]
 
 💔... **The phoenix must burn to emerge** -- Took up a full time night shift sales job || => [Jan '22 - Apr '22]
 
