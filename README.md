@@ -34,7 +34,7 @@ ________________________________________________________________________________
 
 🔥... I have been a learner, I am learning and will be a learner... throughout my life
 
-💼💘... Got into Oracle Cerner as a Data Analyst at [Cerner]([https://www.cerner.com/]) | Checkout my [GitHub at Adrixus](https://github.com/vimal-adrixus) || => [Aug '22 - Till Date]
+💼💘... Got into Oracle Cerner as a Data Analyst at [Cerner](https://www.cerner.com/) || => [Aug '22 - Till Date]
 
 🔥... Upskilled myself in Data science while working in Adrixus 
 
