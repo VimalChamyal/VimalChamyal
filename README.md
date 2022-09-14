@@ -38,7 +38,7 @@ ________________________________________________________________________________
 
 💼... Landed as a MERN Stack intern at [Adrixus](http://adrixus.com/) | Checkout my [GitHub at Adrixus](https://github.com/vimal-adrixus) || => [Apr '22 - Jul'22]
 
-💔... **The phoenix must burn to emerge** -- Took up a full time night shift sales job & upskilled myself in MERN stack & data science|| => [Jan '22 - Apr '22]
+💔... Took up a full time night shift sales job & upskilled myself in MERN stack & data science|| => [Jan '22 - Apr '22]
 
 💕... Been into civil services prep... although couldn't crack it, the preparation moulded my personality in and out. || => ['20 - Jan '22]
 
