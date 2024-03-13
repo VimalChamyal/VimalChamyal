@@ -35,15 +35,15 @@ ________________________________________________________________________________
 
 🔥... I'll be a learner throughout my life
 
-💼... Working at Udaan.com as a Business Analyst at [Udaan](https://www.udaan.com/) || => [Sep '23 - Till Date]
+💼... Started as a Business Analyst at [Udaan](https://www.udaan.com/) || => [Sep '23 - Till Date]
 
-💼💘... Working at [Oracle Cerner](https://www.cerner.com/) as a Data Analyst || => [Aug '22 - Sep '23]
+💼💘... Started as a Data Analyst at [Oracle Cerner](https://www.cerner.com/) || => [Aug '22 - Sep '23]
 
 💼... Started as a Full stack developer [MERN] at [Adrixus](http://adrixus.com/) | Checkout my [GitHub at Adrixus](https://github.com/vimal-adrixus) || => [Apr '22 - Jul'22]
 
 💔... Took up a full time night shift sales job & upskilled myself in MERN stack & data science|| => [Jan '22 - Apr '22]
 
-💕... Been into civil services prep... although couldn't crack it, the preparation moulded my personality in and out. || => ['20 - Jan '22]
+💕... Been into civil services prep... although couldn't crack it, the preparation moulded my personality in and out. Cracked UPSC CDS, AFCAT four times; UPSC CAPF, UPPSC & GPSC Class I & II prelims once. || => ['20 - Jan '22] 
 
 🎒... Mechanical Engineer || => [Graduated in 2020]
 
