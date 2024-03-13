@@ -33,17 +33,19 @@ ________________________________________________________________________________
 (**Know me better**) => {
 
 
-🔥... I have been a learner, I am learning and will be a learner... throughout my life
+🔥... I'll be a learner throughout my life
 
-💼💘... Got into Oracle Cerner as a Data Analyst at [Cerner](https://www.cerner.com/) || => [Aug '22 - Till Date]
+💼... Working at Udaan.com as a Business Analyst at [Udaan](https://www.udaan.com/) || => [Sep '23 - Till Date]
 
-💼... Landed as a MERN Stack intern at [Adrixus](http://adrixus.com/) | Checkout my [GitHub at Adrixus](https://github.com/vimal-adrixus) || => [Apr '22 - Jul'22]
+💼💘... Working at [Oracle Cerner](https://www.cerner.com/) as a Data Analyst || => [Aug '22 - Sep '23]
+
+💼... Started as a Full stack developer [MERN] at [Adrixus](http://adrixus.com/) | Checkout my [GitHub at Adrixus](https://github.com/vimal-adrixus) || => [Apr '22 - Jul'22]
 
 💔... Took up a full time night shift sales job & upskilled myself in MERN stack & data science|| => [Jan '22 - Apr '22]
 
 💕... Been into civil services prep... although couldn't crack it, the preparation moulded my personality in and out. || => ['20 - Jan '22]
 
-🎒... A Mechanical Engineer by Education || => [Graduated in 2020]
+🎒... Mechanical Engineer || => [Graduated in 2020]
 
 }
 
