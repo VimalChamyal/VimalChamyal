@@ -46,7 +46,7 @@ ________________________________________________________________________________
 💕... Been into UPSC civil services prep. Although I couldn't crack it, the prep moulded my personality. || => ['20 - Jan '22]. 
 <br/> 
 <br/>
-A journey of survival, prep, failures & learnings... 💘
+A journey of survival, failures & learnings... 💘
 <br/>
 ... Cracked UPSC CDS & AFCAT four times and UPPSC & GPSC Class I & II prelims, DU CLC - LLB entrance twice, JNU - MA Development & Labour Studies entrance - once
 <br/>
