@@ -33,19 +33,31 @@ ________________________________________________________________________________
 (**Know me better**) => {
 
 
-🔥... I'll be a learner throughout my life
+🔥... Learning from failures.
 
-💼... Started as a Business Analyst at [Udaan](https://www.udaan.com/) || => [Sep '23 - Till Date]
+💼... Business Analyst - Food & FMCG at [Udaan](https://www.udaan.com/) || => [Sep '23 - Till Date]
 
-💼💘... Started as a Data Analyst at [Oracle Cerner](https://www.cerner.com/) || => [Aug '22 - Sep '23]
+💼... Data Analyst at [Oracle Cerner](https://www.cerner.com/) || => [Aug '22 - Sep '23]
 
-💼... Started as a Full stack developer [MERN] at [Adrixus](http://adrixus.com/) | Checkout my [GitHub at Adrixus](https://github.com/vimal-adrixus) || => [Apr '22 - Jul'22]
+💼... Full stack developer [MERN] at [Adrixus](http://adrixus.com/) | My [GitHub at Adrixus](https://github.com/vimal-adrixus) || => [Apr '22 - Jul'22]
 
-💔... Took up a full time night shift sales job & upskilled myself in MERN stack & data science|| => [Jan '22 - Apr '22]
+💔... Took up a full time night shift sales job & upskilled myself in MERN stack & data science. || => [Jan '22 - Apr '22]
 
-💕... Been into civil services prep... although couldn't crack it, the preparation moulded my personality in and out. Cracked UPSC CDS, AFCAT four times; UPSC CAPF, UPPSC & GPSC Class I & II prelims once. || => ['20 - Jan '22] 
-
-🎒... Mechanical Engineer || => [Graduated in 2020]
+💕... Been into UPSC civil services prep. Although I couldn't crack it, the prep moulded my personality. || => ['20 - Jan '22]. 
+<br/> 
+<br/>
+A journey of survival, prep, failures & learnings... 💘
+<br/>
+... Left my job as an Assistant Engineer - QA at Denso, Gurugram to concentrate on my prep.
+<br/>
+... Funded my prep myself - Worked in Technical Support & Customer care jobs at Concentrix, FIS respectively in Gurugram, HR. Volenteered with the local to help the poor kids with free tuitions who were enrolled in Delhi govt schools during COVID.
+<br/>
+... Cracked UPSC CDS & AFCAT four times and UPPSC & GPSC Class I & II prelims, DU CLC - LLB entrance twice, JNU - MA Development & Labour Studies entrance - once
+<br/>
+... Met hell lot many failures - Conference out in 33 SSB Bhopal & 3 AFSB Gandhinagar. Failed in CAT '22 - [92.4 %ile], XAT '23 [76 %ile].
+<br/>
+<br/>
+🎒... Mechanical Engineer.  || => [Graduated in 2020]
 
 }
 
