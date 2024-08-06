@@ -30,7 +30,7 @@ ________________________________________________________________________________
 
 <br/>
 
-(**Know me better**) => {
+(**I'm**) => {
 
 
 🔥... Learning from failures.
@@ -43,7 +43,7 @@ ________________________________________________________________________________
 
 💔... Took up a full time night shift sales job & upskilled myself in MERN stack & data science. || => [Jan '22 - Apr '22]
 
-💕... Been into UPSC civil services prep. Although I couldn't crack it, the prep moulded my personality. || => ['20 - Jan '22]. 
+💕... Been into UPSC civil services prep... || => ['20 - Jan '22]. 
 <br/> 
 <br/>
 A journey of survival, failures & learnings... 💘
