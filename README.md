@@ -50,7 +50,7 @@ A journey of survival, failures & learnings... 💘
 <br/>
 ... Cracked UPSC CDS & AFCAT four times and once - UPPSC & GPSC Class I & II prelims, DU CLC - LLB entrance, JNU - MA Development & Labour Studies entrance.
 <br/>
-... Failures - Conference out in 33 SSB Bhopal & 3 AFSB Gandhinagar. CAT '21 - [74.28%ile] | CAT '22 - [92.4 %ile], XAT '23 [76 %ile].
+... Failures - Conference out in 33 SSB Bhopal & 3 AFSB Gandhinagar. CAT '21 - [74.28%ile] | CAT '22 - [92.4 %ile], XAT '23 [89 %ile].
 <br/>
 <br/>
 🎒... Mechanical Engineer.  || => [Graduated in 2020]
